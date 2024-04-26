@@ -6,6 +6,6 @@
 ## [Assignment 5](https://github.com/ashwanthpolusani/Batch5_AI-ML/blob/main/Assignment5.ipynb)
 ## [Assignment 6](https://github.com/ashwanthpolusani/Batch5_AI-ML/blob/main/Assignment6.ipynb)
 ## [Assignment 7](https://github.com/ashwanthpolusani/Batch5_AI-ML/blob/main/Assignment_7.ipynb)
-## [Assignment 8](https://github.com/ashwanthpolusani/Batch5_AI-ML/blob/main/Assignment8.ipynb)
+## [Assignment 8](https://github.com/ashwanthpolusani/Batch5_AI-ML/blob/main/ASSIGNMENT_8.ipynb)
 ## [Assignment 9](https://github.com/ashwanthpolusani/Batch5_AI-ML/blob/main/Assignment9.ipynb)
 ## [Assignment 10](https://github.com/ashwanthpolusani/Batch5_AI-ML/blob/main/Assignment10.ipynb)
